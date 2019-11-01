@@ -6,6 +6,9 @@ This is my first project to collect data with [Ruuvi tag](https://ruuvi.com/) fr
 Temperature and humidity over night in my fridge. Blue lines mark where the fridge's motor starts and stops
 ![Image](https://github.com/kilkki/ruuvi-fridge/blob/master/Screenshot_2019-11-01%20Ruuvi%20tagit%20-%20Grafana.png "Normal loop")
 
+Fridge door opened. Notice rapid raise of humidity and temperature
+![Image](https://github.com/kilkki/ruuvi-fridge/blob/master/Screenshot_2019-11-01%20Ruuvi%20tagit%20-%20door_open.png "Door open")
+
 You can use the [editor on GitHub](https://github.com/kilkki/ruuvi-fridge/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
