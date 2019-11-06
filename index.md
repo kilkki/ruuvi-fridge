@@ -107,7 +107,7 @@ input_data = input_feature
 ```
 After scaling data is more readable and more efficient for neural network to learn weights.
 ![Image](https://github.com/kilkki/ruuvi-fridge/blob/master/data_scaled.png "Scaled data")
-
+Now we can see spike in ruuvi tags accelemetor when fridge door has moved
 
 ```python
 # function to break data, scale data, window data
