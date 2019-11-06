@@ -85,6 +85,8 @@ In dataset are samples less than second intervals. We don't need so many data po
 # Downsample
 df = df.resample('20S').mean() 
 ```
+![Image](https://github.com/kilkki/ruuvi-fridge/blob/master/data_unscaled.png "Unscaled data")
+
 
 ```python
 # Scale data
@@ -102,6 +104,8 @@ data['movement'] = pd.DataFrame(data_3)
 input_feature= data.iloc[:,[0,1,2]].values
 input_data = input_feature
 ```
+![Image](https://github.com/kilkki/ruuvi-fridge/blob/master/data_scaled.png "Scaled data")
+
 
 ```python
 # function to break data, scale data, window data
