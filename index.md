@@ -185,5 +185,7 @@ plot_history(history)
 
 plot(X_test)
 ```
-
+Prediction
+![Image](https://github.com/kilkki/ruuvi-fridge/blob/master/temp_predict.png "Normal loop")
+Blue line is the prediction of temperature
 
