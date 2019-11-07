@@ -2,9 +2,7 @@
 
 This is project to collect data with Ruuvi tag from my refrigerator and use that data to machine learning models.
 
-![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/ruuvitag.jpg "Ruuvi")
-![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/arrow.png "Ruuvi")
-![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/fridge.jpg "Ruuvi")
+![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/idea.jpg "Ruuvi")
 
 
 #### Details
