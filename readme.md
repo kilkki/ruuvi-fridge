@@ -4,6 +4,11 @@ This is project to collect data with Ruuvi tag from my refrigerator and use that
 
 ![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/idea.jpg "Ruuvi")
 
+####
+Architecture
+
+![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/ruuvi-fridge-arch.jpg "Architecture")
+
 
 #### Details
 
