@@ -7,7 +7,7 @@ This is project to collect data with Ruuvi tag from my refrigerator and use that
 ####
 Architecture
 
-![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/ruuvi-frigde-arch.png "Architecture")
+![alt text](https://github.com/kilkki/ruuvi-fridge/blob/master/images/ruuvi-fridge-architecture.png "Architecture")
 
 
 #### Details
